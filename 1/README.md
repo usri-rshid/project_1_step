@@ -1,8 +1,8 @@
 # Program to calculate sum of 5 subjects and find percentage.
 
-1.in c.
-2.in python.
-3.c plus plus.
+1. in c.
+2. in python.
+3. c plus plus.
 
 
 in c.c :
