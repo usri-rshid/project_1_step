@@ -1,0 +1,3 @@
+## Recursion
+it is a powerful technique that allows us to solve complex problems by breaking them down into simpler subproblems. It can provide elegant and concise solutions inprogramming. However, it's important to use recursion judiciously and ensure that the base case is reached to avoid infinite recursion. Practice and understanding the underlying logic of recursion will help you become comfortable with this concept.
+Using " `while ((getchar()) != '\n'); `" : Enter "while ((getchar())!= '\n');" gets to read the buffer characters to the end as well as discards them (including newlines), and when used after the "scanf()" statement, it helps remove the input buffer as well as enables input into the desired container.
