@@ -1,0 +1,1 @@
+Write a program that uses a function to swap the contents of two integers if they have the same sign. Otherwise, it should place the sum of the two integers in the first integer and their product in the second integer. (Remember to use pass-by-reference).
